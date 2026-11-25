@@ -80,6 +80,5 @@ STU001,"CS101, MA102, PH103"
 
 Header aliases include `student`, `id`, `registration_no` for student IDs and `subjects`, `courses`, `course_codes` for subject codes. Accepted subject codes are 2–5 uppercase letters followed by 2–4 digits (such as `CS101`) or 2 digits + 2–5 uppercase letters + 3–4 digits (such as `25CS2304`). Missing values, malformed codes, and duplicate student-course registrations are rejected.
 
-## Screenshots
-
-Screenshots are not included in the repository yet. Add captures of the dashboard, conflict graph, and timetable to a `screenshots/` directory and link them here when available.
+##LIVE WEBSITE
+https://bharathreddybaana5678-max.github.io/bhareth/
